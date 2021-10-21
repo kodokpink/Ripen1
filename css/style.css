@@ -77,8 +77,8 @@ form {
 }
 
 .banner {
-	height: 60px;
-	background-image: url('banner.jpg');
+	height: 60vh;
+	background-image: url("banner.jpg");
 	background-size: cover;
 	background-attachment: fixed;
 	position: relative;
